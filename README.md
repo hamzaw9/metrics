@@ -58,13 +58,13 @@
 
 ## 🔭 Live Demo <a name="future-features"></a>
 
-[Live demo](https://papaya-biscochitos-18a15f.netlify.app/)
+[Live demo](https://strong-travesseiro-0c6db9.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Presentation of the project -->
 
-## 🔭 Live Demo <a name="future-features"></a>
+## 🔭 Video Presentation <a name="future-features"></a>
 Coming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
