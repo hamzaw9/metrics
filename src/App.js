@@ -4,12 +4,14 @@ import Details from './pages/Details';
 import './App.css';
 
 function App() {
-  <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/Details" element={<Details />} />
-    </Routes>
-  </BrowserRouter>;
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/Details" element={<Details />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
 export default App;
