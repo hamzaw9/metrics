@@ -11,3 +11,9 @@ body {
 .card:nth-child(4n - 1) {
   @apply bg-teal-500;
 }
+
+@media (max-width: 767px) {
+  body {
+    margin: 15px;
+  }
+}
