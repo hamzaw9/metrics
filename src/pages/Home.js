@@ -1,6 +1,5 @@
 import { useDispatch } from 'react-redux';
 import { useEffect } from 'react';
-import { GetCoins } from '../redux/coins/coinsSlice';
 
 const Home = () => {
   const dispatch = useDispatch();
