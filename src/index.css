@@ -3,10 +3,11 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#4268B2] text-white;
+  color: #ffefef;
+  background-color: teal;
 }
 
 .card:nth-child(4n - 2),
 .card:nth-child(4n - 1) {
-  @apply bg-[#3E63A4];
+  @apply bg-teal-500;
 }

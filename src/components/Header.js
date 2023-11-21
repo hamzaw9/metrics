@@ -4,7 +4,7 @@ const Header = () => {
   const { pathname } = useLocation();
 
   return (
-    <header className="py-2 bg-[#4269B3]">
+    <header className="py-2 bg-teal-500">
       <nav>
         <ul className="flex justify-between items-center">
           <li className="flex items-center space-x-3">

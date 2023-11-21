@@ -32,7 +32,7 @@ const CoinDetails = () => {
           <span>Name :</span>
           <span>{name}</span>
         </li>
-        <li className="flex justify-between px-2 py-5 bg-[#3E63A4]">
+        <li className="flex justify-between px-2 py-5 bg-teal-500">
           <span>Symbol :</span>
           <span>{symbol}</span>
         </li>
@@ -40,7 +40,7 @@ const CoinDetails = () => {
           <span>Rank :</span>
           <span>{rank}</span>
         </li>
-        <li className="flex justify-between px-2 py-5 bg-[#3E63A4]">
+        <li className="flex justify-between px-2 py-5 bg-teal-500">
           <span>Supply :</span>
           <span>{supply}</span>
         </li>
@@ -48,7 +48,7 @@ const CoinDetails = () => {
           <span>Market Capital(USD) :</span>
           <span>{marketCapUsd}</span>
         </li>
-        <li className="flex justify-between px-2 py-5 bg-[#3E63A4]">
+        <li className="flex justify-between px-2 py-5 bg-teal-500">
           <span>Volume(USD) 24Hrs :</span>
           <span>{volumeUsd24Hr}</span>
         </li>
@@ -56,7 +56,7 @@ const CoinDetails = () => {
           <span>Price(USD) :</span>
           <span>{priceUsd}</span>
         </li>
-        <li className="flex justify-between px-2 py-5 bg-[#3E63A4]">
+        <li className="flex justify-between px-2 py-5 bg-teal-500">
           <span>Change Percent(24Hr) :</span>
           <span>{changePercent24Hr}</span>
         </li>

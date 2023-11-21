@@ -2,7 +2,7 @@ import { PropTypes } from 'prop-types';
 import graphImage from '../assets/graph.png';
 
 const Chart = ({ title1, title2, count }) => (
-  <div className="flex justify-between items-center px-5 py-2 gap-5 bg-[#5385E1]">
+  <div className="flex justify-between items-center px-5 py-2 gap-5 bg-teal-500">
     <div>
       <img src={graphImage} alt="chart" />
     </div>
