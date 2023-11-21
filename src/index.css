@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#4268B2] text-white;
+}
+
+.card:nth-child(4n - 2),
+.card:nth-child(4n - 1) {
+  @apply bg-[#3E63A4];
+}
