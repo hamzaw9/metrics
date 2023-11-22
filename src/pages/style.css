@@ -1,0 +1,21 @@
+@media (min-width: 767px) {
+  .details,
+  .home {
+    width: 68%;
+  }
+}
+
+li {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+@media (max-width: 500px) {
+  span {
+    font-size: 15px;
+  }
+  li {
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+  }
+}

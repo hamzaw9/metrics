@@ -5,6 +5,7 @@ import Header from '../components/Header';
 import Chart from '../components/Chart';
 import SearchInput from '../components/SearchInput';
 import CoinsList from '../components/CoinsList';
+import './style.css';
 
 const Home = () => {
   const { coins } = useSelector((state) => state.coins);
@@ -20,7 +21,7 @@ const Home = () => {
   return (
     <div
       data-testid="home"
-      className="h-screen md:w-1/2 lg:w-1/2 mx-auto space-y-5"
+      className="home h-screen md:w-1/2 lg:w-1/2 mx-auto space-y-5"
     >
       <Header />
       <Chart
