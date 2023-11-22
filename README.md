@@ -191,8 +191,8 @@ Thank you for your support and for being a part of this journey!
 
 I would like to give credit to list of contributors:
 
-- Nelson Sakwa Creator of design.
-- Microverse Team.
+- [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+- Microverse Team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
