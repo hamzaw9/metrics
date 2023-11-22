@@ -5,6 +5,19 @@
 body {
   color: #ffefef;
   background-color: teal;
+  font-family: 'Gill Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+p,
+li {
+  font-family: 'Gill Sans', sans-serif;
+}
+
+span {
+  font-family: 'Lato', sans-serif;
 }
 
 .card:nth-child(4n - 2),
