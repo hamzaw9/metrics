@@ -18,7 +18,7 @@ const CoinDetails = () => {
   } = coinDetails;
 
   return (
-    <div className="details h-screen md:w-1/2 lg:w-1/2 space-y-5 mx-auto p-2">
+    <div className="details h-screen space-y-5 mx-auto p-2">
       <Header />
       <Chart
         title1={name}
