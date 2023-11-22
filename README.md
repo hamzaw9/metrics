@@ -63,7 +63,7 @@
 
 ## 🔭 Live Demo <a name="future-features"></a>
 
-[Live demo](https://strong-travesseiro-0c6db9.netlify.app/)
+[Live demo](https://metrics-crypto.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,8 +71,7 @@
 
 ## 🔭 Video Presentation <a name="future-features"></a>
 
-[Video Presentation](https://drive.google.com/file/d/1tgi5Oul6zedYgnub9mtMMpxfbYalr4x/view?usp=drive_link
-)
+[Video Presentation](https://drive.google.com/file/d/1tgi5Oul6zedYgnub9mtMMpxfbxYalr4x/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
